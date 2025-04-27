@@ -1,4 +1,6 @@
 #Technology: I used R for the analysis (here is the code) \
+# US Census Bureau famous dataset I use with R Langage for an Price Water House assignment 
+## I used 2 algormithms for the models: 1 base-ruled Decision Tree and 1 Artificial Neural Network
 
 ##Auteur: Dominique Loyer \
 ### Results and limitations \
@@ -87,12 +89,12 @@ peopleLess50K <- 10835+12430
 peopleLess50K
 plot(peopleLess50K)
 hist(peopleLess50K) \
-
+```
 
 #Question 3 \
 
 ##Cleaningmytreeadult \
-
+```R
 ###categorical variables as factor
 pwcClean$workclass <- as.factor(pwcClean$workclass)
 pwcClean$`Income Group` <- as.factor(pwcClean$`Income Group`)
