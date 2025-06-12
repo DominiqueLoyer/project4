@@ -183,7 +183,7 @@ pwc.net = nnet(`Income Group`~.,data=pwc.test,size=10)
 pwc.valid$est.income = predict(pwc.net,pwc.valid,type="class")
 Tpwc=table(pwc.valid$`Income Group`,pwc.valid$est.income)
 Tpwc
-
+```
 
 ![1.png](https://github.com/DominiqueLoyer/project4/blob/master/1.png)
 [![](2.png)](https://github.com/DominiqueLoyer/project4/blob/master/2.png
