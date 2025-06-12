@@ -185,17 +185,28 @@ Tpwc=table(pwc.valid$`Income Group`,pwc.valid$est.income)
 Tpwc
 
 
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
-![](7.png)
-![](8.png)
-![](9.png)
-![](10.png)
-![](11.png)
+![]([1.png](https://github.com/DominiqueLoyer/project4/blob/master/1.png
+))
+[![](2.png)](https://github.com/DominiqueLoyer/project4/blob/master/2.png
+)
+[![](3.png)](https://github.com/DominiqueLoyer/project4/blob/master/3.png
+)
+[![](4.png)](https://github.com/DominiqueLoyer/project4/blob/master/4.png
+)
+[![](5.png)](https://github.com/DominiqueLoyer/project4/blob/master/5.png
+)
+[![](6.png)](https://github.com/DominiqueLoyer/project4/blob/master/6.png
+)
+[![](7.png)](https://github.com/DominiqueLoyer/project4/blob/master/7.png
+)
+[![](8.png)](https://github.com/DominiqueLoyer/project4/blob/master/8.png
+)
+[![](9.png)](https://github.com/DominiqueLoyer/project4/blob/master/9.png
+)
+[![](10.png)](https://github.com/DominiqueLoyer/project4/blob/master/10.png
+)
+[![](11.png)](https://github.com/DominiqueLoyer/project4/blob/master/11.png
+)
 
 
 
