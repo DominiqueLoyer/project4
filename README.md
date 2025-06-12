@@ -185,8 +185,7 @@ Tpwc=table(pwc.valid$`Income Group`,pwc.valid$est.income)
 Tpwc
 
 
-![]([1.png](https://github.com/DominiqueLoyer/project4/blob/master/1.png
-))
+![1.png](https://github.com/DominiqueLoyer/project4/blob/master/1.png)
 [![](2.png)](https://github.com/DominiqueLoyer/project4/blob/master/2.png
 )
 [![](3.png)](https://github.com/DominiqueLoyer/project4/blob/master/3.png
