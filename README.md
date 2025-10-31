@@ -1,7 +1,7 @@
 #Technology: I used R for the analysis (here is the code) \
 # US Census Bureau famous dataset I use with R Langage for an Price Water House assignment 
 ## I used 2 algormithms for the models: 1 base-ruled Decision Tree and 1 Artificial Neural Network
-
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dominiqueloyer)
 ##Auteur: Dominique Loyer \
 ### Results and limitations \
 2044 master and doctorate plus grand que 50k 1181 = 3,87% \
