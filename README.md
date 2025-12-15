@@ -4,6 +4,7 @@
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dominiqueloyer)
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-DominiqueLoyer-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/DominiqueLoyer)
+[![DOI](https://zenodo.org/badge/208865660.svg)](https://doi.org/10.5281/zenodo.17943816)
 
 
 ##Auteur: Dominique Loyer \
